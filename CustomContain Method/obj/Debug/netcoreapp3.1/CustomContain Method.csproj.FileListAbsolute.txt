@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\bin\Debug\netcoreapp3.1\CustomContain Method.exe
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\bin\Debug\netcoreapp3.1\CustomContain Method.deps.json
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\bin\Debug\netcoreapp3.1\CustomContain Method.runtimeconfig.json
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\bin\Debug\netcoreapp3.1\CustomContain Method.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\bin\Debug\netcoreapp3.1\CustomContain Method.dll
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\bin\Debug\netcoreapp3.1\CustomContain Method.pdb
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.dll
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.pdb
+C:\Users\ASUS\Desktop\C# tasks\CustomContain Method\CustomContain Method\obj\Debug\netcoreapp3.1\CustomContain Method.genruntimeconfig.cache
